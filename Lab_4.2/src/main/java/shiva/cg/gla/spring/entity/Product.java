@@ -43,7 +43,8 @@ public class Product {
 		this.prodPrice = prodPrice;
 		this.category = category;
 	}
-	public Product() {
+	public Product() 
+	{
 		super();
 		// TODO Auto-generated constructor stub
 	}
